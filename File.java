@@ -1,5 +1,13 @@
-class File{
-public static void main(String args[]){
-System.ou.println("HelloWorld");
+class Hello
+
+{
+
+public static void main (String args[])
+
+{
+
+System.out.println("Java Hello World");
+
 }
+
 }
